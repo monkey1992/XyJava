@@ -1,3 +1,3 @@
 
-rootProject.name = "XyAlgorithm"
+rootProject.name = "XyJava"
 

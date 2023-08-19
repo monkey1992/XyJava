@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.4.32"
 }
 
-group = "com.xy.algorithm"
+group = "com.xy.java"
 version = "1.0-SNAPSHOT"
 
 repositories {
